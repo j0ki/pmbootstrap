@@ -1,4 +1,4 @@
-pkgname=firmware-samsung-i9195
+pkgname=firmware-samsung-i9195-wlan
 pkgver=18.03.11
 pkgrel=0
 pkgdesc="Firmware for Samsung Galaxy S4 Mini LTE"
